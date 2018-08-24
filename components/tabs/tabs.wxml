@@ -1,0 +1,9 @@
+<!--components/tabs/tabs.wxml-->
+<tabs>
+  <view style='display:flex;width:100%;flex-direction:row'>
+  <button>tabs1</button>
+   <button>tabs2</button>
+    <button>tabs3</button>
+     <button>tabs4</button>
+  </view>
+</tabs>
